@@ -1,0 +1,21 @@
+table {
+  border: 1px solid #ccc;
+  font-size: 35px;
+}
+
+thead {
+  background-color: green;
+  color: white;
+}
+
+tr {
+  border: 1px solid #ccc;
+}
+
+td,
+th {
+  border: 1px solid #ccc;
+  vertical-align: bottom;
+  height: 30px;
+  padding: 10px;
+}

@@ -1,0 +1,33 @@
+p,
+h2 {
+  margin: 0;
+}
+
+.statistics {
+  width: 100%;
+  max-width: 450px;
+  text-align: center;
+  box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.19);
+}
+
+.title {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  font-size: 30px;
+  color: darkgray;
+  text-transform: uppercase;
+}
+
+.stat-list {
+  display: flex;
+  gap: 12px;
+  background-color: blueviolet;
+  justify-content: space-around;
+}
+
+.item span {
+  color: beige;
+  font-size: 25px;
+  display: flex;
+  flex-direction: column;
+}
